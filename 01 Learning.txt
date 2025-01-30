@@ -1,0 +1,24 @@
+// Global 
+git config --global user.name "thelazybusycoder"
+git config --global user.email "devenasan@gmail.com"
+git config --list 
+
+// Clonning & Status. 
+git clone 
+git status 
+
+// Status
+untracted - new files that git is not tracking
+modified - changed 
+staged - file is ready for commit 
+unmodified - unchanged
+
+// add and commit
+git add filename
+git commit -m "some message"
+
+// update local to to remote 
+git push origin main
+
+
+
